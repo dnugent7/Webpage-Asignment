@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(30, 167, 209);
+    width: 350px;
+    border: 1px solid black;
+}
+p {
+    color: purple;
+    width: 500px;
+    border: 1px solid black;
+}
+li {
+    color: orange;
+}
